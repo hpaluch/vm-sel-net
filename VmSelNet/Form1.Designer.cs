@@ -66,8 +66,7 @@ namespace VmSelNet
             this.Controls.Add(this.videoModeCombo);
             this.Controls.Add(this.writeToRegistrycb);
             this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Video Mode Selection Tool";
             this.ResumeLayout(false);
             this.PerformLayout();
 
