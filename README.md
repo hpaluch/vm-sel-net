@@ -10,6 +10,26 @@ Tested environment
 * Win XP SP3 Visual Studio 2005 Express C# Edition
 * Win 7/64bit Visual Studio Express 2013 for Windows Desktop
 
+Requirements
+============
+
+For Windows 7 or later:
+
+* Get and install Visual Studio Express 2013 for Windows Desktop
+  from https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+  (free registration required prior download)
+
+For Win XP:
+
+* Get and install Visual Studio 2005 Express C# - it is available on 
+  many samples CD for programming books and magazines
+
+Common tasks:
+
+* Get Git for Win32 from https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+   When asked for CR LF conversion, choice None (checkout as-is, commit as-is)
+
+
 Bulding
 =======
 
