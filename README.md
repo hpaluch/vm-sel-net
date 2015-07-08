@@ -33,11 +33,11 @@ Common tasks:
 Bulding
 =======
 
-For Visual Studio Express 2013 for Windows Desktop checkout master branch:
+For Visual Studio Express 2013 for Windows Desktop checkout *master* branch:
 
 	git clone https://github.com/hpaluch/vm-sel-net.git
 
-For Visual Studio 2005 Express
+For Visual Studio 2005 Express checkout *vs2005_express* branch
 
 	git clone -b vs2005_express https://github.com/hpaluch/vm-sel-net.git
 
